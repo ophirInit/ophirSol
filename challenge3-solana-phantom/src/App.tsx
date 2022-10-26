@@ -167,7 +167,7 @@ function App() {
             }}
             onClick={disconnectWallet}
         >
-          Disconnect Wallet
+          Disconnect the Wallet
         </button>
         </>
 
